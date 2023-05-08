@@ -33,6 +33,8 @@ function efectoHabilidades(){
         habilidades[9].classList.add("proyect");
         habilidades[10].classList.add("enfocado");
         habilidades[11].classList.add("aprendizaje");
+        habilidades[12].classList.add("enfocado");
+        habilidades[13].classList.add("aprendizaje");
     }
 }
 

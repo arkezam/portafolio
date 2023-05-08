@@ -68,26 +68,26 @@ html{
 .inicio .contenido-banner{
     padding: 20px;
     background-color: #1e2326;
-    max-width: 350px;
+    max-width: 400px;
     margin: auto;
     text-align: center;
     border-radius: 40px;
 }
 .inicio .contenido-banner img{
     margin-top: 40px;
-    border: 10px solid #f0a123;
+    border: 7px solid #f0a123;
     display: block;
     width: 80%;
     margin: auto;
     border-radius: 100%;
 }
 .inicio .contenido-banner h1{
-    margin-top: 40px;
+    margin-top: 50px;
     font-size: 42px;
     font-family: 'Righteous';
 }
 .inicio .contenido-banner h2{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: normal;
 }
 .inicio .contenido-banner .redes a{
@@ -660,7 +660,7 @@ footer .arriba{
     font-size: 18px;
 }
 /* SECCION RESPONSIVE */
-@media screen and (max-width:980px){
+@media screen and (max-width:750px){
     nav{
         display: none;
     }
